@@ -1,2 +1,2 @@
-/tmp
-*.api_key
+temp_files
+secret.env
