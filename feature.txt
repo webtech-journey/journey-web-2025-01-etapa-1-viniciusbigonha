@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Feature A - Line 1
 Feature A - Line 2
-=======
 Feature B - Different content
->>>>>>> origin/feature-b
